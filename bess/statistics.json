@@ -1,0 +1,71 @@
+{
+  "india": {
+    "courtesyName": "Central Electricity Authority (CEA), Ministry of Power, Government of India",
+    "courtesyUrl": "https://cea.nic.in/reports/dashboardView?headingId=107&subHeadingId=1003&subSubHeadingId=10046&lang=en",
+    "asOfLabel": "30 September 2026",
+    "items": [
+      {
+        "label": "Total BESS Pipeline",
+        "value": "63.12 GW (198.44 GWh)",
+        "note": "Across 195 projects (≥1 MWh) — operation, construction, awarded, and tender stages combined."
+      },
+      {
+        "label": "In Operation",
+        "value": "5.32 GW (14.54 GWh)",
+        "note": "19 commissioned projects, including grid-connected capacity participating in merchant sale."
+      },
+      {
+        "label": "Under Construction",
+        "value": "27.73 GW (78.96 GWh)",
+        "note": "63 projects with PPA/BESPA signed."
+      },
+      {
+        "label": "Awarded + In Tender",
+        "value": "30.08 GW (104.93 GWh)",
+        "note": "113 projects — 28 awarded, 85 in tender stage (includes FDRE projects whose storage capacity is yet to be finalised)."
+      }
+    ]
+  },
+  "global": {
+    "courtesyName": "International Energy Agency (IEA) — Global Battery Storage Capacity Additions, 2020-2025",
+    "courtesyUrl": "https://www.iea.org/data-and-statistics/charts/global-battery-storage-capacity-additions-2020-2025",
+    "asOfLabel": "2025 (calendar year)",
+    "items": [
+      {
+        "label": "Cumulative Installed Capacity",
+        "value": "124 GW (end of 2024)",
+        "note": "IEA-confirmed total. Adding 2025's reported additions brings the estimate to ≈232 GW by end of 2025 — that combined figure is our own arithmetic, not a number IEA has stated directly."
+      },
+      {
+        "label": "New Capacity Added (2025)",
+        "value": "108 GW",
+        "note": "40% more than 2024 additions; installed base is now ~11x higher than in 2021."
+      },
+      {
+        "label": "5-Year Growth (2020 → 2024)",
+        "value": "12x+",
+        "note": "Utility-scale battery power capacity additions grew more than twelvefold over 2020-2024, before a further 40% jump in 2025."
+      },
+      {
+        "label": "Utility-Scale Share",
+        "value": "≈ 80%",
+        "note": "Share of 2025's new battery capacity that was utility-scale rather than distributed/behind-the-meter."
+      },
+      {
+        "label": "Leading Market",
+        "value": "China — ≈ 60%",
+        "note": "Share of global 2025 additions from China, followed by the United States and Europe."
+      },
+      {
+        "label": "Dominant Chemistry",
+        "value": "LFP — ≈ 90%",
+        "note": "Share of 2025 deployments using lithium iron phosphate cells."
+      },
+      {
+        "label": "2030 Storage Target",
+        "value": "≈ 1,500 GW",
+        "note": "IEA estimate of total global storage capacity (all technologies) needed by 2030 to support tripling renewable capacity."
+      }
+    ]
+  }
+}
